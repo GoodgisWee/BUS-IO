@@ -1,3 +1,2 @@
 # BUS-IO
-Bus IO - a bus tracking application which aims to improve the public transport efficiency
 Bus IO is a bus tracking app integrate with Iot aims to improve the public bus efficiency by improve the visibility of the bus to public. The app could track the real time location of the bus, search nearby bus stop, include a voucher system to attract more people to use the app. The Iot is the GPS transmitted, it will transmit the real time location of the bus into firebase and the bus location will be refresh every 5 seconds. This is a group project, I am contributing to the voucher system and also the real time bus tracking feature.
